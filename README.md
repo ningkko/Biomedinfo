@@ -4,9 +4,9 @@ From 2020 Spring with Joe.\
 A notebook for biomedinfo. 
 
 ### Notes from papers gathered:
-- [Public Health and Epidemiology Informatics](https://ningkko.github.io/Biomedinfo/data/PublicHealthandEpidemiologyInformatics.html)
+- [Public Health and Epidemiology Informatics: Methodology and Challenges](https://ningkko.github.io/Biomedinfo/data/PublicHealthandEpidemiologyInformatics.html)
 
-- [Public Health and Epidemiology Informatics_ Recent Research and Trends in the United States](https://ningkko.github.io/Biomedinfo/data/Public%20Health%20and%20Epidemiology%20Informatics_%20Recent%20Research%20and%20Trends%20in%20the%20United%20States/PublicHealthandEpidemiologyInformaticsRecentR.html)
+- [Public Health and Epidemiology Informatics: Recent Research and Trends in the United States](https://ningkko.github.io/Biomedinfo/data/Public%20Health%20and%20Epidemiology%20Informatics_%20Recent%20Research%20and%20Trends%20in%20the%20United%20States/PublicHealthandEpidemiologyInformaticsRecentR.html)
 
 ### Topics:
 
