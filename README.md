@@ -11,7 +11,7 @@ A notebook for biomedinfo.
 ### Courses
 #### Finding Hidden messages in DNA
 - [Week 1](course/Finding%20Hidden%20Messages%20in%20DNA/Week1/w1.html)
-- [Week 2](course/Finding Hidden Messages in DNA/Week2/w2.html)
+- [Week 2](course/Finding%20Hidden%20Messages%20in%20DNA/Week2/w2.html)
 ### Topics:
 
 **1. EHR**
