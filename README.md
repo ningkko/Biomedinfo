@@ -9,7 +9,9 @@ A notebook for biomedinfo.
 - [Public Health and Epidemiology Informatics: Recent Research and Trends in the United States](data/Public%20Health%20and%20Epidemiology%20Informatics_%20Recent%20Research%20and%20Trends%20in%20the%20United%20States/PublicHealthandEpidemiologyInformaticsRecentR.html)
 
 ### Courses
-- [Finding Hidden messages in DNA](/course/Finding%20Hidden%20Messages%20in%20DNA/Week1/w1.html)
+#### Finding Hidden messages in DNA
+- [Week 1](course/Finding%20Hidden%20Messages%20in%20DNA/Week1/w1.html)
+- [Week 2](course/Finding Hidden Messages in DNA/Week2/w2.html)
 ### Topics:
 
 **1. EHR**
