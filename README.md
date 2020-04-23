@@ -22,21 +22,27 @@ A notebook for biomedinfo.
 
 **1. EHR**
 - Word mapping
+    - [Word Embeddings](https://ningkko.github.io/Biomedinfo/paper/Word%20Embeddings/WordEmbeddings.html)
 - NLP
 - Medical translation
 - Classification Models
 - Cross Validation
 
-**2. Computational Pathology**
+**2. Models**
+- [Disease dynamics characterized by a parameter](https://ningkko.github.io/Biomedinfo/paper/R_0Model.html)
+- [The SIR Model for Spread of Disease - The Differential Equation Model](https://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-the-differential-equation-model)
 
-**3. Policy**
+**3. Computational Pathology**
 
-**4. Genomes**
+**4. Policy**
+
+**5. Genomes**
 - Locating OriC in a genome 
 
 
 
 Random Links:
+- [Unified Medical Language System (UMLS)](https://www.nlm.nih.gov/research/umls/index.html)
 - [Computational Pathology github page of some Ph.D. Student](https://slwu89.github.io/)
 - [PheCAP](https://celehs.github.io/PheCAP/)
 - [CELEHS-Harvard](https://celehs.hms.harvard.edu/)
