@@ -11,6 +11,9 @@ A notebook for biomedinfo.
 - [Development of phenotype algorithms using electronic medical records and incorporating natural language processing](https://ningkko.github.io/Biomedinfo/paper/Development%20of%20phenotype%20algorithms%20using%20electronic%20medical%20records%20and%20incorporating%20natural%20language%20processing/Developmentofphenotypealgorithmsusingelectron.html)
 
 
+- [Recent Advances in Computational Epidemiology](https://ningkko.github.io/Biomedinfo/paper/RecentAdvancesinComputationalEpidemiology.html)
+
+- [Surrogate-assisted feature extraction for high-throughput phenotyping](https://ningkko.github.io/Biomedinfo/paper/Surrogate-assisted_feature%20extraction_for%20high-throughput_phenotyping/Surrogateassistedfeatureextractionforhighthro.html)
 ### Courses
 #### Finding Hidden messages in DNA
 - [Week 1](https://ningkko.github.io/Biomedinfo/course/Finding%20Hidden%20Messages%20in%20DNA/Week1/w1.html)
@@ -40,3 +43,4 @@ Random Links:
 - [The Bio-IT World Conference & Expo](https://www.bio-itworldexpo.com/)
 - [The Yu Lab of Computational Pathology](https://khyulab.github.io/)
 - [The Radboudumc Computational Pathology Group](https://www.computationalpathologygroup.eu/)
+- [](http://www.stat.tsinghua.edu.cn/teambuilder/faculty/yusheng/)
